@@ -1,6 +1,6 @@
 # 🍅 Pomodoro Timer (ESP8266 + OLED)
 
-> A full Pomodoro productivity timer on an ESP8266 with a 0.96" OLED. Work sessions, short breaks, long breaks, session tracking, animated arc progress ring, tomato animation, and EEPROM stats — all with one button.
+> A full Pomodoro productivity timer on an ESP8266 with a 0.96" OLED. Work sessions, short breaks, long breaks, session tracking, animated arc progress ring, tomato animation, and EEPROM stats. All with one button.
 
 No phone. No notifications. Just focus.
 
