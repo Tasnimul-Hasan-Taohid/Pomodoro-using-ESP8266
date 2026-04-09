@@ -13,7 +13,7 @@ The Pomodoro Technique is a time management method:
 1. Work for **25 minutes** (one Pomodoro 🍅)
 2. Take a **5 minute** short break.
 3. After **4 Pomodoros**, take a **15 minute** long break.
-4. Repeat
+4. Repeat.
 
 ---
 
